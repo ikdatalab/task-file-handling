@@ -1,0 +1,4 @@
+Name,CNIC,City
+Ali Ahmed,*****-*******-1,Karachi
+Sara Khan,*****-*******-2,Lahore
+Usman Raza,*****-*******-3,Hyderabad

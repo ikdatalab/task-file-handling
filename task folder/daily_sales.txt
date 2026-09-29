@@ -1,0 +1,4 @@
+Item,Quantity,Price_PKR
+Biryani, 5, 450
+Cold Drink, 5, 100
+Kheer, 2, 200

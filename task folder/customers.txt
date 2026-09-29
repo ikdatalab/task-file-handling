@@ -1,0 +1,4 @@
+Name,CNIC,City
+Ali Ahmed,42101-1234567-1,Karachi
+Sara Khan,35202-7654321-2,Lahore
+Usman Raza,41303-9876543-3,Hyderabad
